@@ -3,6 +3,8 @@ import authRouter from "./src/Modules/Auth/authController.js"
 import userRouter from "./src/Modules/User/userController.js"  
 import blogRouter from "./src/Modules/Blog/blogController.js" 
 import errorHandler from "./src/middleware/errorHandler.js"
+import dotenv from 'dotenv';
+dotenv.config();
 
 
 const app = express();
