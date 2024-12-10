@@ -18,7 +18,7 @@ This is a simple RESTful API built with **Node.js**, **Express**, and **MySQL** 
 
 ### 1. Clone the repository:
 
-git clone https://github.com/ahmedibrahimCIS/Blog_App.git
+git clone [https://github.com/ahmedibrahimCIS/Blog_App.git](https://github.com/ahmedibrahimCIS/Blog_App.git)
 cd Blog_App
 
 ## 2. Install dependencies:
